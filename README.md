@@ -32,7 +32,7 @@ Finalmente, di con la solución al usar la propiedad `writing-mode: vertical-rl;
 
 Evaluación del Desafío: Comencé revisando los detalles del desafío en DevChallenges para comprender los requisitos y el diseño proporcionado.
 
-Estructura HTML: Empecé creando la estructura básica de la página utilizando etiquetas HTML semánticas como <main>, <section>, <figure>, <article>, etc. Esto ayudó a organizar el contenido de manera significativa.
+Estructura HTML: Empecé creando la estructura básica de la página utilizando etiquetas HTML semánticas como `<section>`, `<figure>`, `<article>`, etc. Esto ayudó a organizar el contenido de manera significativa.
 
 Estilos CSS: Luego me enfoqué en aplicar estilos al proyecto. Utilicé estilos personalizados de CSS para establecer colores, tamaños y espaciados coherentes en todo el diseño.
 
@@ -65,7 +65,7 @@ Este desafío me ha permitido practicar y aplicar mis conocimientos en un proyec
 
 ## Autor
 
-- [Perfil en DevChallenges]()
+- [Perfil en DevChallenges](https://devchallenges.io/portfolio/CristianAguilar-dev)
 
 ## Agradecimientos
 
